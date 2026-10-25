@@ -6,7 +6,7 @@ Nazwa zespołu: Zespół 3000.75
 Jakub Chyła
 ## Motto
 
-Jak działa to nie tykaj...
+Git jest git
 
 ## Ulubione technologie
 C++
