@@ -6,6 +6,6 @@ Nazwa zespołu: ???
 
 ## Motto
 
-???
+Jak działa to nie tykaj...
 
 ## Ulubione technologie
