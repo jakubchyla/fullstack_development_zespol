@@ -9,3 +9,4 @@ Nazwa zespołu: ???
 Jak działa to nie tykaj...
 
 ## Ulubione technologie
+C++
