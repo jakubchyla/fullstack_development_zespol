@@ -9,3 +9,4 @@ Nazwa zespołu: ???
 ???
 
 ## Ulubione technologie
+C++
