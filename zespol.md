@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ???
+Nazwa zespołu: Zespół 3000
 
 ## Skład
 Jakub Chyła
