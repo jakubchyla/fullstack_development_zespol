@@ -6,7 +6,7 @@ Nazwa zespołu: ???
 Jakub Chyła
 ## Motto
 
-???
+Jak działa to nie tykaj...
 
 ## Ulubione technologie
 C++
