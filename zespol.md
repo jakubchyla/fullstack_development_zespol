@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: Zespół 3001
+Nazwa zespołu: Zespół 3000.5
 
 ## Skład
 Jakub Chyła
