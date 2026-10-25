@@ -3,4 +3,4 @@ Studiuję na ANS
 Uwielbiam C i telekomunikację.
 ASDF
 # Hobby
-Lubiem klikać w klawiaturę
+Lubię klikać w klawiaturę
