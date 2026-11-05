@@ -7,3 +7,4 @@ Dawid Świeczkowski
 ## Motto
 Jak sie zalogować do gita?
 ## Ulubione technologie
+### Opis repozytorium - lab2-git-team
