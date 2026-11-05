@@ -1,1 +1,2 @@
 Wytrzymać
+Wytrwać
