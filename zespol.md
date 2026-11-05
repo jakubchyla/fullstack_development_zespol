@@ -10,3 +10,4 @@ Wszystko można co nie można byle z cicha i z ostrożna
 
 ## Ulubione technologie
 C++
+05/11/2026
